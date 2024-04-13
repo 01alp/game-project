@@ -3,12 +3,12 @@
 Develop a responsive website, for a fictional casino company according to the listed Technical and Functional Requirements below.
 Main
 ● React
-:fa-dot-circle-o: Create-react-app and NX are not allowed! (no quick setup tools)
+    oCreate-react-app and NX are not allowed! (no quick setup tools)
 ● Redux Saga
 ● TypeScript
 ● Webpack
 ● SCSS
-:fa-dot-circle-o: MUI styling libraries are allowed
+    o MUI styling libraries are allowed
 ● Material-UI
 ● Responsiveness
 
@@ -30,8 +30,8 @@ To Start Server:
 # Project Overview
 
 This project is built using React, configured with Webpack for module bundling. To streamline development, especially as I'm currently not any experinced in TypeScript, I opted to integrate Bootstrap. This choice allows me to focus on functionality and design without the steep learning curve of TypeScript for now.
-Key Features
 
+Key Features:
     Responsive Design: The website is fully responsive, ensuring a seamless user experience across various devices and screen sizes.
 
 Technologies Used
