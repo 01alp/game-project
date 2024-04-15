@@ -43,3 +43,7 @@ Bootstrap: A front-end framework used for designing websites and web application
 Project Goals
 
 The primary goal of this project is to deliver a fully functional and responsive website. By using Bootstrap, I aim to implement a robust layout and design quickly and efficiently, ensuring that I can focus on functionality and meeting project deadlines without being hindered by my current learning curve with TypeScript.
+
+Ps: After completing task i have decided to improve coding with useContext, layout structure created a second project on Sunday. Just Favorites not finished yet. Link:
+https://github.com/01alp/g2.git
+ 
